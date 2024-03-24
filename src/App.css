@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+.users {
+    display: flex;
+    justify-content: space-between;
+}
